@@ -3,6 +3,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.vergelabs.qrscanapp",
-      "sha256_cert_fingerprints": ["87:9B:2D:9B:A6:60:2C:D7:46:0F:01:9A:1C:2D:CC:5F:97:5A:EF:B9:7F:8F:77:AA:C6:50:E9:43:31:20:88:7B"]
+      "sha256_cert_fingerprints": ["36:56:8F:8C:45:B0:2F:D9:AB:50:B6:9A:1D:60:68:FD:48:8F:8A:36:27:ED:9E:FB:50:73:CF:4D:B6:A8:AA:E6"]
     }
   }]
+
+  
